@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 👾 I’m currently working on Cond Engine
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C/C++
 - 🥚 Fun fact: I'm a real person
 
 #
